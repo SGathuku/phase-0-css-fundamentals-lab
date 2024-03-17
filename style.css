@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+#featured-property, figcaption
+{
+  width: 800px;
+  text-align: center;
+  padding-left: 4cm;
+  font-size: medium;
+}
+
+#featured-property p {
+  font-size: medium;
+  padding-left: 3cm;
+  padding-right: 3cm;
+  text-align: center;
+  width: 800px;
+}
+
+
+
+.links {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: skyblue;
+  word-spacing: 0.4cm;
+  border-radius: 40px;
+
+}
+
+
+#details div
+      {
+       background-color: red;
+       text-align: center;
+       width: 25%;
+       font-size: small;
+       display: inline-block;
+       float: left;
+
+      }
